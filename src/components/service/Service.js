@@ -12,7 +12,7 @@ const Service = () => {
                            <div className='service_button'>
                               <div className='service_btn'>
                                   <div className='service_btn_one'>
-                                      <i class="fa-solid fa-phone"></i>
+                                      <i className="fa-solid fa-phone"></i>
                                   </div>
                                   <div className='service_btn_one two'>
                                       <p>Call</p>
@@ -24,7 +24,7 @@ const Service = () => {
                            <div className='service_button'>
                               <div className='service_btn'>
                                   <div className='service_btn_one'>
-                                      <i class="fa-solid fa-envelope"></i>
+                                      <i className="fa-solid fa-envelope"></i>
                                   </div>
                                   <div className='service_btn_one two'>
                                       <p>Email</p>

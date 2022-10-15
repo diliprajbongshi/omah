@@ -24,7 +24,7 @@ const Residen = () => {
                         <i class="fa-solid fa-phone"></i>  <a href='#'>Hubungi Kami</a>
                       </div>
                       <div className='btn_one'>
-                        <i class="fa-solid fa-phone"></i>  <a href='#'>Hubungi Kami</a>
+                        <i className="fa-solid fa-phone"></i>  <a href='#'>Hubungi Kami</a>
                       </div>
                     </div>
                   
