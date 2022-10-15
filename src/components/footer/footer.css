@@ -1,0 +1,28 @@
+.footer{
+    background: #203239;
+    padding: 20px 0px;
+}
+.footer_part{
+     display: flex;
+ 
+}
+.fooler_lofo{
+    width: 20%;
+}
+.fooler_icon{
+    width: 80%;
+}
+.fooler_icon ul{
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 70px;
+}
+.fooler_icon ul li a{
+    color: #fff;
+   font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    padding-top: 5px;
+    
+}

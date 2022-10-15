@@ -1,0 +1,87 @@
+.residen {
+    background: #EEEDDE;
+    padding-top: 68px;
+    padding-bottom: 178px;
+}
+.residen_part{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.residen_one{
+    width: 40%;
+}
+.residen_two{
+   width: 50%;
+   padding-top: 110px;
+}
+.residen_one p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FF7527;
+    line-height: 30px;
+}
+.residen_one h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    color: #203239;
+    line-height: 30px;
+    padding-bottom: 64px;
+}
+.residen_img{
+    width: 310px;
+}
+.residen_img img{
+    width: 100%;
+}
+.resi_image_two {
+    position: absolute;
+    margin-top: -377px;
+    width: 210px;
+}
+.residen_two h3{
+     font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    color: #203239;
+    line-height:50px;
+
+}
+.residen_two p{
+     font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #203239;
+    line-height: 30px;
+}
+.residen_button{
+    display: flex;
+}
+.btn_one{
+    margin-top:48px;
+    border: 1px solid #203239;
+    padding: 13px 41px 13px 60px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: #000;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+.btn_one:hover{
+    background: #203239;
+    color: #fff;
+}
+.btn_one a:hover{
+    color: #fff;
+}
+.one{
+    margin-right: 20px;
+}

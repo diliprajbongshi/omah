@@ -1,0 +1,71 @@
+nav{
+    background: #EEEDDE;
+    height: 130px;
+
+}
+.box{
+    display: flex;
+}
+.logo{
+    width: 20%;
+    margin-top: 63px;
+}
+.navitem{
+    width: 80%;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.navitem ul{
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.navitem ul li a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #203239;
+    position: relative;
+}
+.navitem ul li a::after{
+    width: 0px;
+    height: 4px;
+    background: red;
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 10px;
+      transition:.4s ;
+   -webkit-transition:.4s ;
+   -moz-transition:.4s ;
+   -ms-transition:.4s ;
+   -o-transition:.4s ; 
+}
+.navitem ul li a:hover::after{
+    width: 30px;
+}
+.navitem ul li a:hover{
+   font-family: 'Poppins', sans-serif;
+   font-size: 16px;
+   font-weight: 600;
+   font-weight: 600;
+   color: #f29a0c;
+   transition:.4s ;
+   -webkit-transition:.4s ;
+   -moz-transition:.4s ;
+   -ms-transition:.4s ;
+   -o-transition:.4s ;
+}
+.navitem ul{
+    margin-top: 63px;
+}
+/* ================== Banner Part start ======================= */
+
+/* ================== Banner Part end======================= */

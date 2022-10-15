@@ -1,0 +1,80 @@
+.service{
+background: #EEEDDE;
+padding: 48px 0px;
+}
+.service_part{
+    display: flex;
+    justify-content: space-between;
+}
+.service_one{
+    width: 50%;
+    height: 300px;
+}
+.service_two{
+    width: 50%;
+     height: 300px;
+     margin-left: 80px;
+}
+.service_one h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    color: #203239;
+    padding-bottom: 63px;
+}
+.service_btn{
+display: flex;
+ 
+}
+.ser_bnt{
+    display: flex;
+    justify-content: space-between;
+}
+
+.service_btn_one i{
+  font-size: 36px;
+    color: #203239;
+   
+}
+.service_btn_one p{
+     font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #203239;
+     padding-top: 10px;
+     padding-bottom: 10px;
+}
+.two{
+    margin-left: 16px;
+}
+.service_button{
+      border: 1px solid rgba(255, 0, 0, 0.148);
+      padding: 24px;
+      width: 300px;
+      width: 200px;
+      border-radius: 5px;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      -ms-border-radius: 5px;
+      -o-border-radius: 5px;
+}
+.service_button a:hover{
+    background: red;
+}
+.service_button a{
+    display: inline-block;
+    padding: 10px 60px;
+    margin-top: 10px;
+    color: #FF7527;
+    background: rgba(255, 115, 8, 0.237);
+}
+.service_two h3{ 
+font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    color: #203239;
+    padding-bottom: 63px;
+}
+
+
+
