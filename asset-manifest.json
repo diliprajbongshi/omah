@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/omah/static/css/main.f1059cbb.css",
+    "main.js": "/omah/static/js/main.c5ca7c9e.js",
+    "index.html": "/omah/index.html",
+    "main.f1059cbb.css.map": "/omah/static/css/main.f1059cbb.css.map",
+    "main.c5ca7c9e.js.map": "/omah/static/js/main.c5ca7c9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1059cbb.css",
+    "static/js/main.c5ca7c9e.js"
+  ]
+}
